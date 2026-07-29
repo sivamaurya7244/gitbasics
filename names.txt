@@ -1,5 +1,4 @@
 siva
-new name 1
 new name 2
 new name 3
 new name 4
